@@ -9,7 +9,9 @@ from flask_cors import CORS
 load_dotenv()
 
 # 🔥 Load modules.json
-with open("data/modules.json", "r", encoding="utf-8") as f:
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+with open(os.path.join(BASE_DIR, "data/modules.json"), "r", encoding="utf-8") as f:
     MODULES = json.load(f)
 
 # 🔍 Smart matching
