@@ -1,0 +1,527 @@
+[
+ {
+  "module": "mental",
+  "keywords": ["sad", "depressed", "lonely", "dukhi"],
+
+  "verse": "Bhagavad Gita 2.14",
+  "sanskrit": "śītoṣṇa-sukha-duḥkha-dāḥ…",
+  "translation": "Happiness and distress come and go like seasons.",
+  "explanation": "Sadness is temporary. Stay strong, this phase will pass.",
+
+  "youtube": ["https://www.youtube.com/watch?v=4pLUleLdwY4"],
+  "websites": ["https://www.prabhupadabooks.com/bg/2/14"],
+
+  "gita": { "verse": "BG 2.14" }
+},
+
+{
+  "module": "mental",
+  "keywords": ["anxiety", "anxious", "fear", "worried"],
+
+  "verse": "Bhagavad Gita 6.5",
+  "sanskrit": "uddhared ātmanātmānaṁ…",
+  "translation": "One must elevate oneself by their own mind.",
+  "explanation": "Control your thoughts. Calm your mind and focus inward.",
+
+  "youtube": ["https://www.youtube.com/watch?v=inpok4MKVLM"],
+  "websites": ["https://www.prabhupadabooks.com/bg/6/5"],
+
+  "gita": { "verse": "BG 6.5" }
+},
+{
+  "module": "mental",
+  "keywords": ["stress", "tension", "pressure"],
+
+  "verse": "Bhagavad Gita 2.48",
+  "sanskrit": "yoga-sthaḥ kuru karmāṇi…",
+  "translation": "Perform your duty with calmness and balance.",
+  "explanation": "Stay balanced. Do your work without overthinking results.",
+
+  "youtube": ["https://www.youtube.com/watch?v=2sGz2jYwQ2U"],
+  "websites": ["https://www.prabhupadabooks.com/bg/2/48"],
+
+  "gita": { "verse": "BG 2.48" }
+},
+
+{
+  "module": "mental",
+  "keywords": ["pain", "hurt"],
+
+  "verse": "Bhagavad Gita 2.14",
+  "sanskrit": "śītoṣṇa-sukha-duḥkha-dāḥ…",
+  "translation": "Pain and pleasure come and go like seasons.",
+  "explanation": "Pain is temporary. Stay strong, it will pass.",
+
+  "youtube": ["https://www.youtube.com/watch?v=4pLUleLdwY4"],
+  "websites": ["https://www.prabhupadabooks.com/bg/2/14"],
+
+  "gita": { "verse": "BG 2.14" }
+},
+
+  {
+    "module": "career",
+    "keywords": [
+  "python",
+  "django",
+  "flask"
+],
+    "title": "Python Developer 🐍",
+
+    "roadmap": "Python → OOP → DSA → Django/Flask → Projects → Job",
+
+    "skills": ["Python", "Django", "Flask", "DSA"],
+
+    "youtube": [
+      "https://www.youtube.com/watch?v=rfscVS0vtbw",
+      "https://www.youtube.com/watch?v=ERCMXc8x7mc",
+      "https://www.youtube.com/@CodeWithHarry",
+      "https://www.youtube.com/@freecodecamp",
+      "https://www.youtube.com/@KrishNaik06"
+    ],
+
+ "gita": {
+  "verse": "BG 2.47",
+  "message": "Focus on your work, not results. Keep coding daily without fear of failure."
+},
+
+    "websites": [
+      "https://roadmap.sh/python",
+      "https://docs.python.org/3/",
+      "https://www.w3schools.com/python/",
+      "https://www.geeksforgeeks.org/python-programming-language/",
+      "https://leetcode.com"
+    ]
+  },
+
+  {
+  "module": "career",
+  "keywords": ["c++", "cpp", "c plus plus"],
+
+  "title": "C++ Developer ⚙",
+
+  "roadmap": "C → C++ → OOP → DSA → Competitive Programming → Projects",
+
+  "skills": ["C++", "OOP", "DSA", "STL"],
+
+  "youtube": [
+    "https://www.youtube.com/@CodeWithHarry",
+    "https://www.youtube.com/@freecodecamp",
+    "https://www.youtube.com/watch?v=vLnPwxZdW4Y"
+  ],
+
+  "websites": [
+    "https://roadmap.sh/cpp",
+    "https://www.geeksforgeeks.org/c-plus-plus/",
+    "https://www.w3schools.com/cpp/",
+    "https://leetcode.com"
+  ],
+
+  "gita": {
+    "verse": "BG 2.50",
+    "message": "Skill in action is yoga. Practice coding daily to gain mastery."
+  }
+},
+
+  {
+    "module": "career",
+    "keywords": ["web", "frontend", "backend", "fullstack", "javascript"],
+    "title": "Web Developer 🌐",
+
+    "roadmap": "HTML → CSS → JS → React → Node → Projects",
+
+    "skills": ["HTML", "CSS", "JavaScript", "React", "Node"],
+
+    "youtube": [
+      "https://www.youtube.com/watch?v=PkZNo7MFNFg",
+      "https://www.youtube.com/@TraversyMedia",
+      "https://www.youtube.com/@CodeWithHarry",
+      "https://www.youtube.com/@ApnaCollegeOfficial",
+      "https://www.youtube.com/@freecodecamp"
+    ],
+
+    "websites": [
+      "https://roadmap.sh/frontend",
+      "https://developer.mozilla.org",
+      "https://freecodecamp.org",
+      "https://www.w3schools.com",
+      "https://github.com"
+    ],
+    "gita": {
+  "verse": "BG 2.47",
+  "message": "Focus on your work, not results. Keep coding daily without fear of failure."
+}
+  },
+
+  {
+    "module": "career",
+    "keywords":  [
+  "java",
+  "spring",
+  "software",
+  "backend"
+],
+    "title": "Java Developer ☕",
+
+    "roadmap": "Java → OOP → DSA → Spring Boot → Projects",
+
+    "skills": ["Java", "Spring Boot", "OOP", "DSA"],
+
+    "youtube": [
+      "https://www.youtube.com/watch?v=grEKMHGYyns",
+      "https://www.youtube.com/@Telusko",
+      "https://www.youtube.com/@CodeWithHarry",
+      "https://www.youtube.com/@freecodecamp"
+    ],
+
+    "websites": [
+      "https://roadmap.sh/java",
+      "https://www.geeksforgeeks.org/java/",
+      "https://docs.oracle.com/javase/tutorial/",
+      "https://leetcode.com"
+    ],
+    "gita": {
+  "verse": "BG 2.47",
+  "message": "Focus on your work, not results. Keep coding daily without fear of failure."
+}
+  },
+
+  {
+    "module": "career",
+    "keywords": ["data", "analyst", "excel"],
+    "title": "Data Analyst 📊",
+
+    "roadmap": "Excel → SQL → Python → Power BI → Projects",
+
+    "skills": ["Excel", "SQL", "Python", "Power BI"],
+
+    "youtube": [
+      "https://www.youtube.com/@AlexTheAnalyst",
+      "https://www.youtube.com/@freecodecamp",
+      "https://www.youtube.com/@CodeWithHarry"
+    ],
+
+    "websites": [
+      "https://roadmap.sh/data-analyst",
+      "https://www.kaggle.com",
+      "https://www.w3schools.com/sql/",
+      "https://pandas.pydata.org"
+    ],
+    "gita": {
+  "verse": "BG 2.47",
+  "message": "Focus on your work, not results. Keep coding daily without fear of failure."
+}
+  },
+
+  {
+    "module": "career",
+    "keywords": ["ai", "ml", "machine learning"],
+    "title": "AI / ML Engineer 🤖",
+
+    "roadmap": "Python → Math → ML → Deep Learning → Projects",
+
+    "skills": ["Python", "Machine Learning", "TensorFlow", "Deep Learning"],
+
+    "youtube": [
+      "https://www.youtube.com/@krishnaik06",
+      "https://www.youtube.com/@freecodecamp",
+      "https://www.youtube.com/@CodeWithHarry"
+    ],
+
+    "websites": [
+      "https://roadmap.sh/ai-data-scientist",
+      "https://scikit-learn.org",
+      "https://tensorflow.org",
+      "https://kaggle.com"
+    ],
+    "gita": {
+  "verse": "BG 2.47",
+  "message": "Focus on your work, not results. Keep coding daily without fear of failure."
+}
+  },
+
+  {
+    "module": "career",
+    "keywords": ["android", "app", "mobile"],
+    "title": "App Developer 📱",
+
+    "roadmap": "Java/Kotlin → Android → Apps → Play Store",
+
+    "skills": ["Kotlin", "Java", "Android Studio"],
+
+    "youtube": [
+      "https://www.youtube.com/@freecodecamp",
+      "https://www.youtube.com/@CodeWithHarry"
+    ],
+
+    "websites": [
+      "https://developer.android.com",
+      "https://roadmap.sh/android"
+    ],
+    "gita": {
+  "verse": "BG 2.47",
+  "message": "Focus on your work, not results. Keep coding daily without fear of failure."
+}
+  },
+
+  {
+    "module": "career",
+    "keywords": ["cyber", "security", "hacking"],
+    "title": "Cyber Security 🛡",
+
+    "roadmap": "Networking → Linux → Security → Ethical Hacking",
+
+    "skills": ["Linux", "Networking", "Ethical Hacking"],
+
+    "youtube": [
+      "https://www.youtube.com/@NetworkChuck",
+      "https://www.youtube.com/@freecodecamp"
+    ],
+
+    "websites": [
+      "https://roadmap.sh/cyber-security",
+      "https://tryhackme.com",
+      "https://hackthebox.com"
+    ],
+    "gita": {
+  "verse": "BG 2.47",
+  "message": "Focus on your work, not results. Keep coding daily without fear of failure."
+}
+  },
+
+  {
+    "module": "career",
+    "keywords": ["cloud", "aws", "devops"],
+    "title": "Cloud / DevOps ☁",
+
+    "roadmap": "Linux → AWS → Docker → Kubernetes → CI/CD",
+
+    "skills": ["AWS", "Docker", "Linux", "CI/CD"],
+
+    "youtube": [
+      "https://www.youtube.com/@TechWorldwithNana",
+      "https://www.youtube.com/@freecodecamp"
+    ],
+
+    "websites": [
+      "https://roadmap.sh/devops",
+      "https://aws.amazon.com",
+      "https://docker.com"
+    ],
+    "gita": {
+  "verse": "BG 2.47",
+  "message": "Focus on your work, not results. Keep coding daily without fear of failure."
+}
+  },
+
+  {
+    "module": "career",
+    "keywords": ["network", "hardware"],
+    "title": "Networking / Hardware 📡",
+
+    "roadmap": "Networking Basics → CCNA → Hardware",
+
+    "skills": ["Networking", "CCNA"],
+
+    "youtube": [
+      "https://www.youtube.com/@NetworkChuck"
+    ],
+
+    "websites": [
+      "https://www.cisco.com"
+    ],
+    "gita": {
+  "verse": "BG 2.47",
+  "message": "Focus on your work, not results. Keep coding daily without fear of failure."
+}
+  },
+
+  {
+    "module": "career",
+    "keywords": ["business", "startup"],
+    "title": "Business / Startup 💼",
+
+    "roadmap": "Idea → MVP → Marketing → Growth",
+
+    "skills": ["Marketing", "Sales"],
+
+    "youtube": [
+      "https://www.youtube.com/@YCombinator"
+    ],
+
+    "websites": [
+      "https://www.shopify.com"
+    ],
+    "gita": {
+  "verse": "BG 2.47",
+  "message": "Focus on your work, not results. Keep coding daily without fear of failure."
+}
+  },
+
+  {
+  "module": "career",
+  "keywords": [
+    "job",
+    "career",
+    "coding",
+    "programming",
+    "developer"
+  ],
+
+  "title": "Career Guidance 💼",
+
+  "roadmap": "Choose a field → Learn skills → Build projects → Apply for jobs",
+
+  "skills": ["Problem Solving", "Consistency", "Learning"],
+
+  "youtube": [
+    "https://www.youtube.com/watch?v=8hly31xKli0"
+  ],
+
+  "websites": [
+    "https://roadmap.sh"
+  ],
+
+  "gita": {
+    "verse": "BG 2.47",
+    "message": "Focus on your work, not results."
+  }
+},
+
+
+ {
+  "module": "ethical",
+  "keywords": ["truth", "lie", "lying","jhoot", "false"],
+
+  "title": "Truth vs Lie ⚖️",
+
+  "translation": "Truth leads to clarity, falsehood leads to confusion.",
+
+  "explanation": "Always choose truth, even if it is difficult.",
+
+  "youtube": ["https://www.youtube.com/watch?v=7oZz2vT7C2k"],
+  "websites": ["https://www.prabhupadabooks.com/bg/16/7"],
+
+  "gita": { "verse": "BG 16.7" }
+},
+
+{
+  "module": "ethical",
+  "keywords": ["honesty", "honest", "integrity"],
+
+  "title": "Honesty 🙏",
+
+  "translation": "Honesty builds trust and inner peace.",
+
+  "explanation": "Be honest in thoughts, words, and actions.",
+
+  "youtube": ["https://www.youtube.com/watch?v=7oZz2vT7C2k"],
+  "websites": ["https://www.prabhupadabooks.com/bg/17/15"],
+
+  "gita": { "verse": "BG 17.15" }
+},
+
+{
+  "module": "ethical",
+  "keywords": ["wrong", "right","decision", "moral"],
+
+  "title": "Right vs Wrong ⚖️",
+
+  "translation": "Right action comes from clarity and wisdom.",
+
+  "explanation": "Think before acting. Choose what is right, not easy.",
+
+  "youtube": ["https://www.youtube.com/watch?v=7oZz2vT7C2k"],
+  "websites": ["https://www.prabhupadabooks.com/bg/18/30"],
+
+  "gita": { "verse": "BG 18.30" }
+},
+
+{
+  "module": "conflict",
+  "keywords": ["fight"],
+
+  "title": "Fight Resolution 🤝",
+
+  "translation": "Control anger and act with calmness.",
+
+  "explanation": "Pause → Breathe → Talk calmly instead of reacting.",
+
+  "youtube": ["https://www.youtube.com/watch?v=ZToicYcHIOU"],
+  "websites": ["https://www.prabhupadabooks.com/bg/2/63"],
+
+  "gita": { "verse": "BG 2.63" }
+},
+
+{
+  "module": "conflict",
+  "keywords": ["argument","argue"],
+
+  "title": "Handling Arguments 🗣️",
+
+  "translation": "Wise people stay calm in disagreements.",
+
+  "explanation": "Listen first → Understand → Respond wisely.",
+
+  "youtube": ["https://www.youtube.com/watch?v=ZToicYcHIOU"],
+  "websites": ["https://www.prabhupadabooks.com/bg/5/23"],
+
+  "gita": { "verse": "BG 5.23" }
+},
+
+{
+  "module": "conflict",
+  "keywords": ["misunderstanding"],
+
+  "title": "Resolve Misunderstanding 🤝",
+
+  "translation": "Clarity removes confusion.",
+
+  "explanation": "Communicate clearly → Avoid assumptions → Build trust.",
+
+  "youtube": ["https://www.youtube.com/watch?v=ZToicYcHIOU"],
+  "websites": ["https://www.prabhupadabooks.com/bg/4/39"],
+
+  "gita": { "verse": "BG 4.39" }
+},
+  {
+  "module": "leadership",
+  "keywords": ["leader"],
+
+  "title": "Leadership Skills 👑",
+  "translation": "A leader guides others with discipline and vision.",
+  "explanation": "Discipline → Responsibility → Inspire others",
+
+  "youtube": ["https://www.youtube.com/watch?v=2Lz0VOltZKA"],
+  "websites": ["https://www.prabhupadabooks.com/bg/3/21"],
+
+  "gita": { "verse": "BG 3.21" }
+},
+
+{
+  "module": "leadership",
+  "keywords": ["decision"],
+
+  "title": "Decision Making 🧠",
+  "translation": "Right decisions come from clarity and wisdom.",
+  "explanation": "Think clearly → Stay calm → Act wisely",
+
+  "youtube": ["https://www.youtube.com/watch?v=2Lz0VOltZKA"],
+  "websites": ["https://www.prabhupadabooks.com/bg/18/30"],
+
+  "gita": { "verse": "BG 18.30" }
+},
+
+{
+  "module": "leadership",
+  "keywords": ["responsibility"],
+
+  "title": "Responsibility 🎯",
+  "translation": "Perform your duty without attachment.",
+  "explanation": "Take ownership → Stay committed → Lead by example",
+
+  "youtube": ["https://www.youtube.com/watch?v=2Lz0VOltZKA"],
+  "websites": ["https://www.prabhupadabooks.com/bg/2/47"],
+
+  "gita": { "verse": "BG 2.47" }
+}
+]
